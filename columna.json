@@ -1,0 +1,112 @@
+{
+  "filas": [
+    {
+      "columna": [
+        {
+          "nombre": "DMCA - Aviso Legal",
+          "link": "#"
+        },
+        {
+          "nombre": "CONTACT",
+          "link": "#"
+        },
+        {
+          "nombre": "FACEBOOK",
+          "link": "#"
+        },
+        {
+          "nombre": "SUBSCRIBETE",
+          "link": "#"
+        },
+        {
+          "nombre": "TWITTER",
+          "link": "#"
+        },
+        {
+          "nombre": "ZONA DE PEDIDO",
+          "link": "#"
+        },
+        {
+          "nombre": "SERIES DE TV",
+          "link": "#"
+        },
+        {
+          "nombre": "SERIES ANIMADAS",
+          "link": "#"
+        },
+        {
+          "nombre": "REPORTER LINK CAIDO",
+          "link": "#"
+        },
+        {
+          "nombre": "CURSOS",
+          "link": "#"
+        },
+        {
+          "nombre": "+CERTIFICACIÓN",
+          "link": "#"
+        }
+      ]
+    },
+    {
+      "columna": [
+        {
+          "nombre": "SERIES GRATIS",
+          "link": "#"
+        },
+        {
+          "nombre": "CURSOS GRATIS",
+          "link": "#"
+        },
+        {
+          "nombre": "DORAMAS GRATIS",
+          "link": "#"
+        },
+        {
+          "nombre": "LIBROS GRATIS",
+          "link": "#"
+        },
+        {
+          "nombre": "JUEGOS GRATIS",
+          "link": "#"
+        },
+        {
+          "nombre": "JUEGOS DE STEAM",
+          "link": "#"
+        },
+        {
+          "nombre": "PELICULAS GRATIS",
+          "link": "#"
+        },
+        {
+          "nombre": "PELICULAS ONLINE",
+          "link": "#"
+        },
+        {
+          "nombre": "PROGRAMAS GRATIS",
+          "link": "#"
+        },
+        {
+          "nombre": "APKS",
+          "link": "#"
+        },
+        {
+          "nombre": "MEGAPACKS GRATIS",
+          "link": "#"
+        },
+        {
+          "nombre": "ANIME GRATIS",
+          "link": "#"
+        },
+        {
+          "nombre": "MUSICA GRATIS",
+          "link": "#"
+        },
+        {
+          "nombre": "JUEGOS DE CELULAR",
+          "link": "#"
+        }
+      ]
+    }
+  ]
+}
